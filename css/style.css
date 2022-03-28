@@ -330,19 +330,18 @@ margin: 30px 0;
 }
 @media (max-width: 767px) {
     .about .first .images img {
-        width: 250px;
+        width: 310px;
         height: 250px;
     }
 }
 .about .first .images {
-    position: relative;
-    width: 350px;
+    width: 375px;
    
 }
 
 @media (max-width: 991px) {
     .about .first .images {
-        margin: 0 auto 30px;
+        margin: 0 auto 20px;
     }
 }
     
